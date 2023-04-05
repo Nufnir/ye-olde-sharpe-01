@@ -1,0 +1,15 @@
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/bin/Debug/net6.0/Example001_helloConsole
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/bin/Debug/net6.0/Example001_helloConsole.deps.json
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/bin/Debug/net6.0/Example001_helloConsole.runtimeconfig.json
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/bin/Debug/net6.0/Example001_helloConsole.dll
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/bin/Debug/net6.0/Example001_helloConsole.pdb
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/obj/Debug/net6.0/Example001_helloConsole.csproj.AssemblyReference.cache
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/obj/Debug/net6.0/Example001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/obj/Debug/net6.0/Example001_helloConsole.AssemblyInfoInputs.cache
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/obj/Debug/net6.0/Example001_helloConsole.AssemblyInfo.cs
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/obj/Debug/net6.0/Example001_helloConsole.csproj.CoreCompileInputs.cache
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/obj/Debug/net6.0/Example001_helloConsole.dll
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/obj/Debug/net6.0/refint/Example001_helloConsole.dll
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/obj/Debug/net6.0/Example001_helloConsole.pdb
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/obj/Debug/net6.0/Example001_helloConsole.genruntimeconfig.cache
+/home/mikras/Documents/sharp_repo/ye-olde-sharpe-01/Example001_helloConsole/obj/Debug/net6.0/ref/Example001_helloConsole.dll
